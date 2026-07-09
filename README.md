@@ -195,13 +195,13 @@ Worked as an Operation Team Member with Developer Student Club, contributing to 
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KumarShrey05&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e5e7eb" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KumarShrey05&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e5e7eb" /> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=KumarShrey05&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=8b5cf6&currStreakLabel=e5e7eb" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarShrey05&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e5e7eb" />
-</p>
+</p> -->
 
 ---
 
