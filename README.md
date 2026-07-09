@@ -122,7 +122,7 @@ This project demonstrates my ability to combine **frontend development, backend 
 ### Operations Team Member · Developer Student Club, SRM Ramapuram  
 **Mar 2025 - Dec 2025**
 
-Worked as an Operations Team Member with Developer Student Club, contributing to student engagement, technical event execution, coordination workflows, and campus-level technology initiatives.
+Worked as an Operation Team Member with Developer Student Club, contributing to student engagement, technical event execution, coordination workflows, and campus-level technology initiatives.
 
 - Served as an event volunteer and event coordinator for DSC activities.
 - Managed event operations for **D3** and **Techno Rally 2025**.
