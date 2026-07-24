@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<!-- <p align="center">
+<!--    <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KumarShrey05&label=Profile%20Views&color=7c3aed&style=flat-square" />
   <img src="https://img.shields.io/github/followers/KumarShrey05?label=Followers&style=flat-square&color=4f46e5&logo=github" />
   <img src="https://img.shields.io/github/stars/KumarShrey05?label=Stars&style=flat-square&color=2563eb&logo=github" />
