@@ -43,7 +43,7 @@
 
 I am **Kumar Shrey**, a **Computer Science and Engineering undergraduate at SRM Institute of Science and Technology, Ramapuram**, with a strong foundation in programming, web development, debugging, logic building, and scalable software design.
 
-My work is focused on building efficient full stack applications using **React.js, Next.js, Node.js, Express.js, MySQL, REST APIs, Tailwind CSS, Git, GitHub, Postman, and modern development workflows**. I am especially interested in engineering systems that combine practical software development with applied AI/ML, secure transaction flows, analytics dashboards, and product-focused user experiences.
+My work is focused on building efficient full stack applications using **React.js, Next.js, Node.js, Express.js, REST APIs, Tailwind CSS, Git, GitHub, Postman, and modern development workflows**. I am especially interested in engineering systems that combine practical software development with applied AI/ML, secure transaction flows, analytics dashboards, and product-focused user experiences.
 
 I have built an **ML-based UPI Fraud Detection system** that brings together full stack engineering, machine learning, secure OTP-enabled transactions, database-backed workflows, and real-time fraud analytics. Alongside software engineering, I am actively developing expertise in **prompt engineering**, AI productivity, and LLM-powered workflows through the **Google Prompting Essentials Specialization**.
 
@@ -70,7 +70,7 @@ I have built an **ML-based UPI Fraud Detection system** that brings together ful
 ### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
@@ -150,7 +150,7 @@ Worked as an Operation Team Member with Developer Student Club, contributing to 
 | Google Prompting Essentials | Completed a four-course Google specialization focused on prompt engineering, AI productivity, and advanced prompt design. |
 | FinTech AI Project | Built a full-stack ML-based UPI Fraud Detection system with secure OTP-enabled transactions and analytics. |
 | DSC Event Coordination | Contributed to operations, volunteering, and coordination for D3 and Techno Rally 2025. |
-| Strong Engineering Foundation | Developed practical skills across C++, JavaScript, React.js, Next.js, Node.js, Express.js, MySQL, REST APIs, Git, and GitHub. |
+| Strong Engineering Foundation | Developed practical skills across C++, JavaScript, React.js, Next.js, Node.js, Express.js, REST APIs, Git, and GitHub. |
 
 </div>
 
