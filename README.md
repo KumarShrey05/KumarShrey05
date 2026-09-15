@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SRM%20IST-CSE%20Undergraduate-7c3aed?style=flat-square&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/B.Tech-2027-4f46e5?style=flat-square&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-9.03%2F10-2563eb?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-8.93%2F10-2563eb?style=flat-square&logo=bookstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Chennai-India-6d28d9?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -70,7 +70,7 @@ I have built an **ML-based UPI Fraud Detection system** that brings together ful
 ### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
