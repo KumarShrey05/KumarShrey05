@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,45:302b63,100:7c3aed&text=Kumar%20Shrey&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Computer%20Science%20and%20Engineering%20Undergraduate&animation=fadeIn" width="100%" />
 </p>
 
