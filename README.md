@@ -207,7 +207,7 @@ Open To:
 
 ---
 
-## Connect
+## Connect 
 
 <p align="center">
   <a href="mailto:kumarshrey14477@gmail.com">
